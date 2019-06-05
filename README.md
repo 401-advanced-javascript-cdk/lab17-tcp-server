@@ -3,7 +3,7 @@ Uses Node's Socket to create server and client communication through TCP
 ### Author: Chris Kozlowski
 
 ### Links and Resources
-* [Submission PR](https://github.com/401-advanced-javascript-cdk/lab16-event-driven-applications/pull/1)
+* [Submission PR](https://github.com/401-advanced-javascript-cdk/lab17-tcp-server/pull/1)
 <!-- * [Travis]( --- ) -->
 <!-- * [Heroku Deployment]( --- ) -->
 
